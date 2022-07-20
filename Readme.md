@@ -5,7 +5,7 @@ discover the future
 
 ```
 ## one
-- Use `。`to see this readme in vscode `#RRGGBB`
+- Use `。`to see this readme in vscode `#0969DA`
 
 - This site was built using [DIDI](https://github.com/whiteless9)
 ## second
